@@ -1,6 +1,9 @@
 # Big Data — MongoDB (Jupyter Notebook)
 
 This repository contains a Jupyter Notebook that demonstrates how to use **MongoDB** within a big-data context using Python. It walks through the process of connecting to a MongoDB database and performing basic data manipulation and analytics.
+ Mention the issue in your README.md or create an ISSUES.md:
+
+"Note: Current notebook throws an error due to missing MongoDB instance or pymongo."
 
 ## 📌 Overview
 
