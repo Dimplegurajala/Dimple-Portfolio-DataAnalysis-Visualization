@@ -42,4 +42,4 @@ Each project folder contains:
 ---
 
 ### Connect with Me
-For collaborations or feedback: [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/dimple-gurajala/))
+For collaborations or feedback: [LinkedIn Profile]([[your-linkedin-url](https://www.linkedin.com/in/dimple-gurajala/)])
