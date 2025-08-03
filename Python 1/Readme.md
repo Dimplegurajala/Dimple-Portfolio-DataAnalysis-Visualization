@@ -1,4 +1,4 @@
-# 📈 Real-Time Financial Market Analysis via Web Crawling
+# Real-Time Financial Market Analysis via Web Crawling
 
 This project demonstrates **web crawling**, **data extraction**, and **analysis** of **real-time financial market data**. It focuses on collecting trending stock tickers from [Yahoo Finance](https://finance.yahoo.com/) and performs a complete data pipeline—fetching, cleaning, analyzing, and modeling the data for insights.
 
