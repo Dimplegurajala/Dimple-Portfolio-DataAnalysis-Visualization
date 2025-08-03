@@ -21,5 +21,5 @@ This project demonstrates **web crawling**, **data extraction**, and **analysis*
 - `matplotlib`, `seaborn` – for visualization
 - `scikit-learn` – for regression modeling
 
-## Project Structure
+
 
