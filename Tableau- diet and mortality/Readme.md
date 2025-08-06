@@ -52,5 +52,4 @@ To analyze how **economic development shapes dietary habits** and how these habi
 
 
 
-*(Add portfolio or LinkedIn link if needed)*
 
