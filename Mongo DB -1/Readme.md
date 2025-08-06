@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that demonstrates how to use **Mongo
 
 "Note: Current notebook throws an error due to missing MongoDB instance or pymongo."
 
-## 📌 Overview
+##  Overview
 
 | Section                         | Details                                                 |
 |----------------------------------|---------------------------------------------------------|
@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook that demonstrates how to use **Mongo
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Python 3.8+
 - Jupyter Notebook / JupyterLab
