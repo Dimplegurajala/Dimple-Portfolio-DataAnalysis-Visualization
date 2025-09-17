@@ -19,11 +19,8 @@ The Power BI report focuses on a granular breakdown of sales and profit metrics.
 The Tableau workbook offers a highly visual and interactive exploration of the data, focusing on correlations and geographic trends.
 
 * **Discounts vs. Sales**: A dashboard exploring the direct relationship between discounts offered and the resulting sales figures.
-    ![Discounts Vs Sales](Discounts%20Vs%20Sales.png)
 * **Profit vs. Discounts**: An analysis of how different discount levels impact overall profitability.
-    ![Profit Vs Discounts](Profit%20Vs%20Discounts.png)
 * **Profits and Sales Across Countries**: A geographic map that visualizes sales and profit distribution across the globe to identify key markets.
-    ![Profits and Sales Across countries](Profits%20and%20Sales%20Across%20countries.png)
 
 ## Data Source
 
