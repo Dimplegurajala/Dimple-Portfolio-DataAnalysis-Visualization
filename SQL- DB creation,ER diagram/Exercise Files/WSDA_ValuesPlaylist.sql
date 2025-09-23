@@ -1,0 +1,18 @@
+INSERT INTO Playlist VALUES (1,'Music');
+INSERT INTO Playlist VALUES (2,'Movies');
+INSERT INTO Playlist VALUES (3,'TV Shows');
+INSERT INTO Playlist VALUES (4,'Audiobooks');
+INSERT INTO Playlist VALUES (5,'90’s Music');
+INSERT INTO Playlist VALUES (6,'Audiobooks');
+INSERT INTO Playlist VALUES (7,'Movies');
+INSERT INTO Playlist VALUES (8,'Music');
+INSERT INTO Playlist VALUES (9,'Music Videos');
+INSERT INTO Playlist VALUES (10,'TV Shows');
+INSERT INTO Playlist VALUES (11,'Brazilian Music');
+INSERT INTO Playlist VALUES (12,'Classical');
+INSERT INTO Playlist VALUES (13,'Classical 101 - Deep Cuts');
+INSERT INTO Playlist VALUES (14,'Classical 101 - Next Steps');
+INSERT INTO Playlist VALUES (15,'Classical 101 - The Basics');
+INSERT INTO Playlist VALUES (16,'Grunge');
+INSERT INTO Playlist VALUES (17,'Heavy Metal Classic');
+INSERT INTO Playlist VALUES (18,'On-The-Go 1');

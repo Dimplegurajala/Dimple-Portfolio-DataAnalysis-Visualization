@@ -1,0 +1,10 @@
+CREATE INDEX IFK_AlbumArtistId ON Album (ArtistId);
+CREATE INDEX IFK_CustomerSupportRepId ON Customer (SupportRepId);
+CREATE INDEX IFK_EmployeeReportsTo ON Employee (ReportsTo);
+CREATE INDEX IFK_InvoiceCustomerId ON Invoice (CustomerId);
+CREATE INDEX IFK_InvoiceLineInvoiceId ON InvoiceLine (InvoiceId);
+CREATE INDEX IFK_InvoiceLineTrackId ON InvoiceLine (TrackId);
+CREATE INDEX IFK_PlaylistTrackTrackId ON PlaylistTrack (TrackId);
+CREATE INDEX IFK_TrackAlbumId ON Track (AlbumId);
+CREATE INDEX IFK_TrackGenreId ON Track (GenreId);
+CREATE INDEX IFK_TrackMediaTypeId ON Track (MediaTypeId);
